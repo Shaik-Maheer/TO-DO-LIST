@@ -18,7 +18,6 @@ A simple and user-friendly Todo App built with React to manage tasks efficiently
 
 - **React**: Frontend framework for building UI components.
 - **Tailwind CSS**: For styling and responsive design.
-- **JavaScript**: Core logic for the app functionality.
 
 ---
 
